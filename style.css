@@ -1,0 +1,28 @@
+.card:hover .card-img-top {
+    transform: scale(1.5);
+}
+
+.card-img-top {
+    transition: all 0.2s;
+}
+
+.imagen {
+    position: relative;
+    overflow: hidden;
+
+}
+
+.tope {
+    margin-top: 80px;
+}
+
+nav {
+    backdrop-filter: blur(10px);
+}
+
+.mini {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+
+}
